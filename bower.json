@@ -1,0 +1,25 @@
+{
+  "name": "rtulino-pattern-library",
+  "homepage": "https://github.com/ryaan-anthony/pattern-library",
+  "authors": [
+    "Tulino",
+    "Ryan <rtulino@ebay.com>"
+  ],
+  "description": "its my pattern library",
+  "main": "./app/css/pattern-library.css",
+  "keywords": [
+    "its",
+    "my",
+    "pattern",
+    "library"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
