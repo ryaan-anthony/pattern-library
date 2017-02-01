@@ -5,5 +5,5 @@ Gem::Specification.new do |s|
   s.email       = 'rtulino@gmail.com'
   s.files       = ["app/css/pattern-library.css"]
   s.homepage    = 'https://github.com/ryaan-anthony/pattern-library'
-  spec.summary  = 'Pattern Library'
+  s.summary  = 'Pattern Library'
 end
